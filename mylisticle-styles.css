@@ -13,7 +13,7 @@ body {
 header{
 	height: 200px;
 	background-color: #64B5F6;
-	background-image: URL(listicleimages/background.jpg);
+	background-image: URL(background.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	font-size: 100px;
